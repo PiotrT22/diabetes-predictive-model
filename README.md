@@ -6,7 +6,6 @@ In the attached dataset, you will find information about female patients, partic
 1. **Data Preparation and Analysis**
    - Thorough examination of the dataset.
    - Conducting statistical analysis.
-   - Initial data visualization.
 
 2. **Predictive Modeling**
    - Building a predictive model for the outcome variable.
